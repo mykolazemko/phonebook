@@ -23,8 +23,4 @@ public class DeleteUser {
 
         connection.close();
     }
-
 }
-
-
-//DELETE FROM table_name WHERE condition;

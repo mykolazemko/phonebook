@@ -50,24 +50,6 @@ public class ConsoleMenu {
                 System.out.println("Enter Integer Number!");
                 loop = false;
             }
-
-
-
-//            if (scanner.hasNextInt()) {
-//                int num = scanner.nextInt();
-//                if (num == 1) {
-//                    System.out.println("Contacts List");
-//                } else if (num == 4){
-//                    System.out.println("Exit");
-//                    controlNum = 4;
-//
-//                } else {
-//
-//                }
-//            } else {
-//
-//            }
         }
-
     }
 }
